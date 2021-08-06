@@ -1,7 +1,9 @@
-name: chemberta_env
+name: Eddie_env
 channels:
   - conda-forge
   - rdkit
+  - anaconda
+   
 dependencies:
   - numpy
   - nlp
@@ -9,4 +11,6 @@ dependencies:
   - pip
   - python=3.8
   - rdkit
+  - matplotlib
+  - seaborn
 
