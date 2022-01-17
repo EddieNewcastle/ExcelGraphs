@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - rdkit
   - anaconda
+  - ase
    
 dependencies:
   - numpy
