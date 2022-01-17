@@ -13,4 +13,5 @@ dependencies:
   - rdkit
   - matplotlib
   - seaborn
+  - qml
 
